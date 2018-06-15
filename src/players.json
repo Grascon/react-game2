@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Chicharito",
+        "image": "./images/Chicharito.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Falcao",
+        "image": "./images/Falcao.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Antoine Griezmann",
+        "image": "./images/Griezmann.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Eden Hazard",
+        "image": "./images/Hazard.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Andres Iniesta",
+        "image": "./images/Iniesta.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Lionel Messi",
+        "image": "./images/Messi.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Manuel Neuer",
+        "image": "./images/Neuer.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Neymar",
+        "image": "./images/Neymar.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Cristiano Ronaldo",
+        "image": "./images/Ronaldo.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Luis Suarez",
+        "image": "./images/Suarez.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Harry Kane",
+        "image": "./images/Kane.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Thiago Silva",
+        "image": "./images/Thiago.jpg",
+        "clicked": false
+    }
+]

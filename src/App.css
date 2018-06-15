@@ -1,0 +1,12 @@
+.App{
+    background-image: url("/images/Soccer-Field.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+.row{
+    margin-bottom: 30px;
+    text-align: center;
+}

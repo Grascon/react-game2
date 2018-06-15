@@ -1,0 +1,15 @@
+img {
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+    border-radius: 15px;
+    transition: transform .2s;
+    border: 2px solid white
+}
+img:hover {
+    transform: scale(1.1);
+    transition: background-color 0.5s ease-in-out;
+    box-shadow: 0 0 75px goldenrod;
+    transition: box-shadow 0.5s ease-in-out;
+}
